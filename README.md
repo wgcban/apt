@@ -9,9 +9,9 @@
 ## Getting Started
 ### Setup the env.
 Setup the virtual conda environment using the `environment.yml`:
-'''
+```
 conda env create -f environment.yml
-'''
+```
 
 ## ✏️ Citation
 
