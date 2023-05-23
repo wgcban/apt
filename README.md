@@ -1,10 +1,10 @@
-# Official PyTorch Implementation of APT: Attention Prompt Tuning.
+# APT: Attention Prompt Tuning.
 
 ![VideoMAE Framework](figs/apt.png)
 
 
-> [**VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**](https://arxiv.org/abs/2203.12602)<br>
-> [Zhan Tong](https://github.com/yztongzhan), [Yibing Song](https://ybsong00.github.io/), [Jue Wang](https://juewang725.github.io/), [Limin Wang](http://wanglimin.github.io/)<br>Nanjing University, Tencent AI Lab
+> [**VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**](https://arxiv.org/abs/xxxx)<br>
+> [Wele Gedara Chaminda Bandara](https://github.com/yztongzhan), [Vishal M Patel](https://ybsong00.github.io/), [Jue Wang](https://juewang725.github.io/), [Limin Wang](http://wanglimin.github.io/)<br>Johns Hopkins University
 
 
 
