@@ -1,4 +1,4 @@
-name: videomae2
+name: apt
 channels:
   - conda-forge
   - defaults
@@ -70,4 +70,3 @@ dependencies:
     - unp==0.3
     - unrar==0.4
     - urllib3==1.26.14
-prefix: /home/wbandar1/anaconda3/envs/videomae2

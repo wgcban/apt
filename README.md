@@ -6,7 +6,12 @@
 > [**APT: Attention Prompt Tuning**](https://arxiv.org/abs/xxxx)<br>
 > [Wele Gedara Chaminda Bandara](https://github.com/wgcban), [Vishal M Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/)<br>Johns Hopkins University
 
-
+## Getting Started
+### Setup the env.
+Setup the virtual conda environment using the `environment.yml`:
+'''
+conda env create -f environment.yml
+'''
 
 ## ✏️ Citation
 
