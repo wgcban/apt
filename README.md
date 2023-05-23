@@ -1,10 +1,10 @@
-# APT: Attention Prompt Tuning.
+# APT: Attention Prompt Tuning
 
 ![VideoMAE Framework](figs/apt.png)
 
 
-> [**VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training**](https://arxiv.org/abs/xxxx)<br>
-> [Wele Gedara Chaminda Bandara](https://github.com/yztongzhan), [Vishal M Patel](https://ybsong00.github.io/), [Jue Wang](https://juewang725.github.io/), [Limin Wang](http://wanglimin.github.io/)<br>Johns Hopkins University
+> [**APT: Attention Prompt Tuning**](https://arxiv.org/abs/xxxx)<br>
+> [Wele Gedara Chaminda Bandara](https://github.com/wgcban), [Vishal M Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/)<br>Johns Hopkins University
 
 
 
