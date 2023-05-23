@@ -13,6 +13,9 @@ Setup the virtual conda environment using the `environment.yml`:
 conda env create -f environment.yml
 ```
 
+### Download the VideoMAE pre-trained models:
+Download the corresponding VideoMAE pre-trained models given in the `MODEL_ZOO.md`.
+
 ## ✏️ Citation
 
 If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
