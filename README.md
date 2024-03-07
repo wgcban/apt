@@ -1,8 +1,11 @@
 # APT: Attention Prompt Tuning
 
 > [**APT: Attention Prompt Tuning**](https://arxiv.org/abs/xxxx)<br>
+
 > A Parameter-Efficient Adaptation of Pre-Trained Models for Action Recognition ...
+
 > [Wele Gedara Chaminda Bandara](https://github.com/wgcban), [Vishal M Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/)<br>Johns Hopkins University
+
 > Accepted at [FG'24](https://fg2024.ieee-biometrics.org)
 
 ![VideoMAE Framework](figs/apt.png)
