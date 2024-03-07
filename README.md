@@ -36,13 +36,13 @@ The pre-trained models for ViT-Small and ViT-Base backbones can be downloaded fr
 
 If you need other pre-trained models please refer [MODEL_ZOO.md](https://github.com/wgcban/apt/blob/main/MODEL_ZOO.md).
 
-### Download the datasets
+### Step 3: Download the datasets
 
 We conduct experiments on three action recognition datasets: 1) UCF101 2) HMDB51 3) Something-Something-V2. 
 
 Please refer [DATASETS.md](https://github.com/wgcban/apt/blob/main/DATASET.md) for access to those links and pre-processing steps.
 
-### Step 3: Attention Prompt Tuning
+### Step 4: Attention Prompt Tuning
 
 We provide example scripts to run the attention prompt tuning on UCF101, HMDB51, and SSv2 datasets in `scripts/` folder.
 
@@ -116,24 +116,15 @@ Here,
 - * all the other parameters are hyperparamters related to apt fine-tuning. 
 
 
-
-
 ## ✏️ Citation
 
 If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
 
 ```
-@inproceedings{tong2022videomae,
-  title={Video{MAE}: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training},
-  author={Zhan Tong and Yibing Song and Jue Wang and Limin Wang},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2022}
-}
 
-@article{videomae,
-  title={VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training},
-  author={Tong, Zhan and Song, Yibing and Wang, Jue and Wang, Limin},
-  journal={arXiv preprint arXiv:2203.12602},
-  year={2022}
-}
 ```
+
+
+## ✏️ Disclaimer
+
+This repocitory is built on top of VideoMAE: https://github.com/MCG-NJU/VideoMAE codebase and we approcite the authors of VideoMAE for making their codebase publically available.
