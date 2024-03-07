@@ -1,4 +1,10 @@
-# VideoMAE Model Zoo
+# Pre-trained VideoMAE Models
+
+For all experiments on APT, we use VideoMAE pre-trained ViT models on Kinetics-400. 
+
+The following table provide different checkpoints.
+
+Note that we use pre-trained checkpoint. Not the fine-tuned one.
 
 ### Kinetics-400
 
