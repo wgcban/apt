@@ -7,14 +7,25 @@
 > [Wele Gedara Chaminda Bandara](https://github.com/wgcban), [Vishal M Patel](https://engineering.jhu.edu/vpatel36/team/vishalpatel/)<br>Johns Hopkins University
 
 ## Getting Started
-### Setup the env.
+
+### Conda Environment
+
 Setup the virtual conda environment using the `environment.yml`:
 ```
 conda env create -f environment.yml
 ```
 
-### Download the VideoMAE pre-trained models:
-Download the corresponding VideoMAE pre-trained models given in the `MODEL_ZOO.md`.
+Then activate the conda environment:
+```
+conda activate apt
+```
+
+### Download the VideoMAE Pre-trained Models:
+Download the corresponding VideoMAE pre-trained models given in the `MODEL_ZOO.md`. 
+
+We use VideoMAE pretrianed on Kinetics-400 dataset for our experiments.
+
+
 
 ## ✏️ Citation
 
