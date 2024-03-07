@@ -1,4 +1,4 @@
-# VideoMAE Installation
+# Installation
 
 The codebase is mainly built with following libraries:
 
@@ -20,8 +20,3 @@ The codebase is mainly built with following libraries:
 - [decord](https://github.com/dmlc/decord)
 
 - [einops](https://github.com/arogozhnikov/einops)
-
-### Note:
-- We recommend you to use **`PyTorch >= 1.8.0`**.
-- We observed accidental interrupt in the last epoch when conducted the pre-training experiments on V100 GPUs (PyTorch 1.6.0). This interrupt is caused by the scheduler of learning rate. We naively set  `--epochs 801` to walk away from issue :)
-
