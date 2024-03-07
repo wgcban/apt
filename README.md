@@ -7,7 +7,7 @@
 
 > [Paper (on ArXiv)](https://arxiv.org/abs/xxxx)<br>
 
-![VideoMAE Framework](figs/apt.png)
+![VideoMAE Framework](figs/apt-intro.jpg)
 
 ## Getting Started
 
