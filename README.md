@@ -21,11 +21,17 @@ conda activate apt
 ```
 
 ### Download the VideoMAE Pre-trained Models:
-Download the corresponding VideoMAE pre-trained models given in the `MODEL_ZOO.md`. 
 
-We use VideoMAE pretrianed on Kinetics-400 dataset for our experiments.
+We use [VideoMAE](https://github.com/MCG-NJU/VideoMAE) pretrianed on [Kinetics-400](https://github.com/cvdfoundation/kinetics-dataset) dataset for our experiments.
 
+The pre-trained models for ViT-Small and ViT-Base backbones can be downloaded from below links:
 
+|  Method  | Extra Data | Backbone | Epoch | \#Frame |                          Pre-train                           |
+| :------: | :--------: | :------: | :---: | :-----: | :----------------------------------------------------------: |
+| VideoMAE |  ***no***  |  ViT-S   |  1600  | 16x5x3  | [checkpoint](https://drive.google.com/file/d/1nU-H1u3eJ-VuyCveU7v-WIOcAVxs5Hww/view?usp=sharing) |
+| VideoMAE |  ***no***  |  ViT-B   | 1600  | 16x5x3  | [checkpoint](https://drive.google.com/file/d/1tEhLyskjb755TJ65ptsrafUG2llSwQE1/view?usp=sharing) |
+
+If you need other pre-trained models please refer [MODEL_ZOO.md](https://github.com/wgcban/apt/blob/main/MODEL_ZOO.md).
 
 ## ✏️ Citation
 
