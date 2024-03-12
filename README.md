@@ -11,10 +11,10 @@
 
 *Comparison of our Attention Prompt Tuning (APT) for videos action classification with other existing tuning methods:  linear probing, [adapter tuning](https://arxiv.org/abs/2205.13535), [visual prompt tuning (VPT)](https://arxiv.org/abs/2203.12119), and full fine-tuning.*
 
-<p>
+<p align="center">
     <img src='figs/apt-method.jpg' width='300' alt>
 </p>
-<p>
+<p align="center">
     <em>Attention Prompt Tuning (APT) injects learnable prompts directly into the MHA unlike VPT.</em>
 </p>
 
