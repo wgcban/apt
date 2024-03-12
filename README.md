@@ -7,6 +7,8 @@
 
 > [Paper (on ArXiv)](https://arxiv.org/abs/2403.06978)<br>
 
+## Overview of Proposed Method
+
 <p align="center">
     <img src='figs/apt-intro.jpg' width='600' alt>
 </p>
