@@ -135,7 +135,7 @@ Here,
 
 If you think this project is helpful, please feel free to leave a star and cite our paper:
 
-```
+```bibtex
 @misc{bandara2024attention,
       title={Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling}, 
       author={Wele Gedara Chaminda Bandara and Vishal M. Patel},
@@ -144,7 +144,6 @@ If you think this project is helpful, please feel free to leave a star and cite 
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-
 ```
 
 
