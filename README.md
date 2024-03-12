@@ -13,7 +13,7 @@
     <img src='figs/apt-intro.jpg' width='600' alt>
 </p>
 <p align="center">
-    <em>Comparison of our Attention Prompt Tuning (APT) for videos action classification with other existing tuning methods:  linear probing, [adapter tuning](https://arxiv.org/abs/2205.13535), [visual prompt tuning (VPT)](https://arxiv.org/abs/2203.12119), and full fine-tuning.</em>
+    <em>Comparison of our Attention Prompt Tuning (APT) for videos action classification with other existing tuning methods:  linear probing, adapter tuning, visual prompt tuning (VPT), and full fine-tuning.</em>
 </p>
 
 
