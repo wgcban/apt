@@ -13,9 +13,10 @@
 
 <p align="center">
   <img src='figs/apt-method.jpg' width='300' />
-</p>
 
-*Attention Prompt Tuning (APT) injects learnable prompts directly into the MHA unlike VPT.*
+  *Attention Prompt Tuning (APT) injects learnable prompts directly into the MHA unlike VPT.*
+
+</p>
 
 ## Getting Started
 
