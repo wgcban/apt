@@ -26,7 +26,7 @@
 
 ## Getting Started
 
-### <u>Step 1</u>: Conda Environment
+### <ins>Step 1</ins>: Conda Environment
 
 Setup the virtual conda environment using the `environment.yml`:
 ```
