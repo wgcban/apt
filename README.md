@@ -38,7 +38,7 @@ Then activate the conda environment:
 conda activate apt
 ```
 
-### Step 2: Download the VideoMAE Pre-trained Models:
+### <ins>Step 2</ins>: Download the VideoMAE Pre-trained Models:
 
 We use [VideoMAE](https://github.com/MCG-NJU/VideoMAE) pretrianed on [Kinetics-400](https://github.com/cvdfoundation/kinetics-dataset) dataset for our experiments.
 
@@ -51,13 +51,13 @@ The pre-trained models for ViT-Small and ViT-Base backbones can be downloaded fr
 
 If you need other pre-trained models please refer [MODEL_ZOO.md](https://github.com/wgcban/apt/blob/main/MODEL_ZOO.md).
 
-### Step 3: Download the datasets
+### <ins>Step 3</ins>: Download the datasets
 
 We conduct experiments on three action recognition datasets: 1) UCF101 2) HMDB51 3) Something-Something-V2. 
 
 Please refer [DATASETS.md](https://github.com/wgcban/apt/blob/main/DATASET.md) for access to those links and pre-processing steps.
 
-### Step 4: Attention Prompt Tuning
+### <ins>Step 4</ins>: Attention Prompt Tuning
 
 We provide example scripts to run the attention prompt tuning on UCF101, HMDB51, and SSv2 datasets in `scripts/` folder.
 
@@ -133,9 +133,17 @@ Here,
 
 ## ✏️ Citation
 
-If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
+If you think this project is helpful, please feel free to leave a star and cite our paper:
 
 ```
+@misc{bandara2024attention,
+      title={Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling}, 
+      author={Wele Gedara Chaminda Bandara and Vishal M. Patel},
+      year={2024},
+      eprint={2403.06978},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 
 ```
 
