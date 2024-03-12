@@ -5,7 +5,7 @@
 
 > Accepted at [FG'24](https://fg2024.ieee-biometrics.org)
 
-> [Paper (on ArXiv)](https://arxiv.org/abs/xxxx)<br>
+> [Paper (on ArXiv)](https://arxiv.org/abs/2403.06978)<br>
 
 ![VideoMAE Framework](figs/apt-intro.jpg)
 
